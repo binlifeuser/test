@@ -12,5 +12,7 @@ public class TestBook {
 		System.out.println("不一样的烟火");
 		System.out.println("不一样的烟火");
 		System.out.println("不一样的烟火");
+System.out.println("不一样的烟火");
+
 	}
 }
